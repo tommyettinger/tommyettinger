@@ -1,6 +1,6 @@
 ### Welcome to my commit streak.
 
-[![Tommy Ettinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyettinger)](https://github.com/tommyettinger/)
+[![Tommy Ettinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyettinger&count_private=true)](https://github.com/tommyettinger/)
 
 <!--
 **tommyettinger/tommyettinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
