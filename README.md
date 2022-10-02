@@ -2,7 +2,7 @@
 
 [![Tommy Ettinger's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=tommyettinger&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/tommyettinger/)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tommyettinger&hide_border=true)
+![Github Contributions](https://streak-stats.demolab.com/?user=tommyettinger&hide_border=true)
 
 <!--
 **tommyettinger/tommyettinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
